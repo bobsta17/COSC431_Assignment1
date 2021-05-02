@@ -54,3 +54,7 @@ you can input queries on stdin or input a file with:
 e.g.
 
 ./searcher . < testData
+
+Indexer files are stored at:
+
+/home/cshome/m/maxedwards/COSC431/Assignment1
